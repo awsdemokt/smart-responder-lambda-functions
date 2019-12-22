@@ -1,0 +1,15 @@
+Websocket-onConnect-SR
+Websocket-onDisconnect-SR
+Websocket-sendMessage-SR
+analyseSentimentOnReceivedEmail-SR
+fetchAllEmailsAwaiting4EyeCheckApproval-SR
+fetchAllFreshReceivedCustomerEmails-SR
+fetchSelectedReceivedEmailByEmailId-SR
+pushReceivedEmailToTravelDesk-SR
+pushTravelDeskDraftedReplyTo4EyeCheckApprover-SR
+saveReceivedEmail-SR
+sendEmailReplyToCustomer-SR
+sendSampleEmailToTravelDesk-SR
+submit4EyeCheckApproval-SR
+translateAndSaveTravelDeskReply-SR
+translateReceivedEmailToEnglish-SR

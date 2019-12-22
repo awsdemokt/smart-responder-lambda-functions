@@ -1,0 +1,11 @@
+{
+  "name": "websocket-ondisconnect",
+  "version": "1.0.0",
+  "description": "Go to Websocket-onDisconnect folder  Package Websocket-onDisconnect function using the following command \"zip -r function.zip index.js\" Deploy function.zip on Lambda console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

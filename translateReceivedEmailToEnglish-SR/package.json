@@ -1,0 +1,11 @@
+{
+  "name": "translatereceivedemailtoenglish-sr",
+  "version": "1.0.0",
+  "description": "Go to translateReceivedEmailToEnglish-SR folder  Package translateReceivedEmailToEnglish-SR function using the following command \"zip -r function.zip index.js\" Deploy function.zip on Lambda console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
