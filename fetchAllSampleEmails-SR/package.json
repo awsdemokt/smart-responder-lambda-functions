@@ -1,0 +1,11 @@
+{
+  "name": "fetchallsampleemails-sr",
+  "version": "1.0.0",
+  "description": "Package function (from the function directory) using the following command \"zip -r function.zip index.js\" Deploy function.zip on Lambda console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

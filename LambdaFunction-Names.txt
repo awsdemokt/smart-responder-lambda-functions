@@ -4,6 +4,7 @@ Websocket-sendMessage-SR
 analyseSentimentOnReceivedEmail-SR
 fetchAllEmailsAwaiting4EyeCheckApproval-SR
 fetchAllFreshReceivedCustomerEmails-SR
+fetchAllSampleEmails-SR
 fetchSelectedReceivedEmailByEmailId-SR
 pushReceivedEmailToTravelDesk-SR
 pushTravelDeskDraftedReplyTo4EyeCheckApprover-SR
